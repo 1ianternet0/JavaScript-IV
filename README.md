@@ -1,6 +1,6 @@
 # JavaScript IV
 
-This challenge focuses on classes in JavaScript using the new `class` keyword.
+   This challenge focuses on classes in JavaScript using the new `class` keyword.
 
 ## Assignment Description
 
@@ -21,7 +21,7 @@ const fred = new Person({
 ```
 
 * Because none of the above code is new, you're about to see your world get much much easier when dealing with Object Creation and Classical Inheritance as it pertains to JavaScript.
-* The Class Keyword makes this SO MUCH EASIER!
+ * The Class Keyword makes this SO MUCH EASIER!
 * **Fork** and clone this repository.
 * **Complete** all of the exercises found in the assignment files.
 
